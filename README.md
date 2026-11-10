@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-Sou aluno do ensino profissional, atualmente a frequentar o **10.º ano** do curso **Técnico de Gestão e Programação de Sistemas Informáticos**. Tenho interesse em desenvolvimento de software, tecnologia e criação digital, procurando evoluir através de projetos práticos e aprendizagem contínua.
+Sou aluno do ensino profissional, atualmente a frequentar o **11.º ano** do curso **Técnico de Gestão e Programação de Sistemas Informáticos**. Tenho interesse em desenvolvimento de software, tecnologia e criação digital, procurando evoluir através de projetos práticos e aprendizagem contínua.
 
 ---
 
